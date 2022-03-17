@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;   
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container{
+    background-image: url("backgorund.png");
+    background-position: right;
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+}
+
+h1{
+    font-weight: lighter;
+    font-size: 24px;
+    padding: 20px 0 0 25px;
+}
+
+ul{
+    list-style: none;
+    list-style-position: inside;
+    margin-left: 25px;
+    padding: 0;
+}
+
+.insta{
+    list-style-image: url(Insta.png);
+}
+.twitter{
+    list-style-image: url(Twitter.png);
+}
+.youtube{
+    list-style-image: url(Youtube.png);
+}
