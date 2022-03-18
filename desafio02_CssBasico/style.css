@@ -20,11 +20,17 @@ h1{
     padding: 20px 0 0 25px;
 }
 
-ul{
+ul li{
     list-style: none;
     list-style-position: inside;
-    margin-left: 25px;
+    margin-left: 0;
     padding: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    
 }
 
 .insta{
